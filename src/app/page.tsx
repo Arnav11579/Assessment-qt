@@ -85,7 +85,7 @@ export default function Page() {
         <>
           {/* eslint-disable-next-line @next/next/no-img-element */}
           <img
-            className="h-[350px] object-cover rounded-2xl shadow-2xl border-4 border-white/50"
+            className="h-[250px] object-cover rounded-2xl shadow-2xl border-4 border-white/50"
             src={getCurrentContent().image}
             alt="Valentine"
           />
