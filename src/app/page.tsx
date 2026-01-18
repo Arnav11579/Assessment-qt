@@ -78,7 +78,7 @@ export default function Page() {
             alt="Bear kiss"
           />
           <div className="my-4 text-4xl font-bold text-pink-600 drop-shadow-md">
-            YAAAAAAAYYYYYIIIIIEEEEEEE!!! I love you CUTTIEEE!! ;))
+            YAAYIIEE!!! I love you CUTIE!! ;))
           </div>
         </>
       ) : (
